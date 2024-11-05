@@ -26,10 +26,10 @@ theta_7=((0)*math.pi)/180
 DH_Param=[
 
 [theta_1,0,0,0],
-[theta_2,math.radians(90),0,5],
+[theta_2,math.radians(-90),0,5],
 [theta_3,0,10,0],
 [theta_4,math.radians(0),5,0],
-[theta_5,math.radians(40),5,0],
+[theta_5,math.radians(90),5,0],
 [theta_6,math.radians(-90),0,5],
 [theta_7,math.radians(0),5,0],
 ]
